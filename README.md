@@ -1,2 +1,3 @@
 # Algorithms
-CMSI 282
+
+Projects and works for Algorithms and Applications (Python)
